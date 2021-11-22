@@ -1,0 +1,1 @@
+this.cidade === cidade && this.delivery === true ? 'Seu pedido foi enviado. O tempo de entrega é de ' + tempoDeEntrega + ' minutos' : 'O pedido não pode ser realizado.'
